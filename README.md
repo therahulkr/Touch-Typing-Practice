@@ -1,5 +1,10 @@
 ## Hi, I'm Rahul Kumar build this react-app Touch Typing Practice.
+# Steps to set up
+### i) git clone https://github.com/therahulkr/Touch-Typing-Practice.git
 
+### ii) git install
+
+### iii) npm start
 ## App Glance 
 
 ### 1) First page :
